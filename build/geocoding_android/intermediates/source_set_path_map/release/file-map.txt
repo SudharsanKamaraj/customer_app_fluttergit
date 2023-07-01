@@ -1,0 +1,12 @@
+com.baseflow.geocoding.geocoding_android-jetified-window-java-1.0.0-beta04-0 /Users/amofetch/.gradle/caches/transforms-3/1f3a48307cb4d4f3c4b4017790727bb7/transformed/jetified-window-java-1.0.0-beta04/res
+com.baseflow.geocoding.geocoding_android-core-1.6.0-1 /Users/amofetch/.gradle/caches/transforms-3/77b74b3e082fce6675a3e7b655edb2a9/transformed/core-1.6.0/res
+com.baseflow.geocoding.geocoding_android-jetified-annotation-experimental-1.1.0-2 /Users/amofetch/.gradle/caches/transforms-3/b58c281c27050016c25e893f9bb4efa0/transformed/jetified-annotation-experimental-1.1.0/res
+com.baseflow.geocoding.geocoding_android-jetified-window-1.0.0-beta04-3 /Users/amofetch/.gradle/caches/transforms-3/e6f6f813fd598259b501b01e0fa4ed75/transformed/jetified-window-1.0.0-beta04/res
+com.baseflow.geocoding.geocoding_android-main-4 /Users/amofetch/.pub-cache/hosted/pub.dev/geocoding_android-2.1.0/android/src/main/res
+com.baseflow.geocoding.geocoding_android-release-5 /Users/amofetch/.pub-cache/hosted/pub.dev/geocoding_android-2.1.0/android/src/release/res
+com.baseflow.geocoding.geocoding_android-pngs-6 /Users/amofetch/Desktop/sudharsan/customar_app/build/geocoding_android/generated/res/pngs/release
+com.baseflow.geocoding.geocoding_android-resValues-7 /Users/amofetch/Desktop/sudharsan/customar_app/build/geocoding_android/generated/res/resValues/release
+com.baseflow.geocoding.geocoding_android-rs-8 /Users/amofetch/Desktop/sudharsan/customar_app/build/geocoding_android/generated/res/rs/release
+com.baseflow.geocoding.geocoding_android-mergeReleaseResources-9 /Users/amofetch/Desktop/sudharsan/customar_app/build/geocoding_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.baseflow.geocoding.geocoding_android-mergeReleaseResources-10 /Users/amofetch/Desktop/sudharsan/customar_app/build/geocoding_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.baseflow.geocoding.geocoding_android-merged_res-11 /Users/amofetch/Desktop/sudharsan/customar_app/build/geocoding_android/intermediates/merged_res/release

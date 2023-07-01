@@ -1,0 +1,67 @@
+class AppImages {
+  static const String logo = 'assets/image/APP_LOGO.png';
+  static const String next_arr = 'assets/image/next_arr.svg';
+  static const String CALL_CENTER = 'assets/image/call center.svg';
+  static const String TRACKING = 'assets/image/Tracking.svg';
+  static const String BOOKING = 'assets/image/Booking.svg';
+  static const String BALLOON_BG = 'assets/image/Balloon_bg.svg';
+  static const String BANNER_DEMO1 = 'assets/image/Banner_demo1.png';
+  static const String BANNER_DEMO2 = 'assets/image/Banner_demo2.png';
+  static const String BANNER_DEMO3 = 'assets/image/Banner_demo3.png';
+  static const String SPOTDATAIMG1 = 'assets/image/Frame 215.png';
+  static const String SPOTDATAIMG2 = 'assets/image/Frame 215 (1).png';
+  static const String SPOTDATAIMG3 = 'assets/image/Frame 216.png';
+  static const String SPOTDATAIMG4 = 'assets/image/Frame 216 (1).png';
+  static const String BOOK_SERVICE = 'assets/image/TRAK.png';
+  static const String TRAK = 'assets/image/TRAK.png';
+  static const String TRAKLOGO = 'assets/image/Trak_Logo.png';
+  static const String SCHED_SAPLE = 'assets/image/sched_img.png';
+  static const String SOS_SERVICE1 = 'assets/image/SOS Service1.png';
+  static const String SOS_SERVICE2 = 'assets/image/SOS Service1.png';
+  static const String SOS_SERVICE3 = 'assets/image/SOS Service1.png';
+  static const String SOS_SERVICE4 = 'assets/image/SOS Service1.png';
+  static const String SOS_SERVICE5 = 'assets/image/SOS Service1.png';
+  static const String SOS_SERVICE6 = 'assets/image/SOS Service1.png';
+  static const String SOS_SERVICE7 = 'assets/image/SOS Service1.png';
+  static const String SUCCESS_TIC = 'assets/image/Success_tic.png';
+  static const String TRACKER = 'assets/image/Tracker.png';
+  static const String MAP_BG = 'assets/image/map (1).png';
+  static const String PAY_SCC_BG = 'assets/image/payment_scc_bg.png';
+  static const String SUCCESS_TIC_BG = 'assets/image/correct_tic_scc_bg.png';
+  static const String SPARE1 = 'assets/image/spare1.png';
+  static const String SPARE2 = 'assets/image/spare2.png';
+  static const String SPARE3 = 'assets/image/spare3.png';
+}
+
+class AppIcons {
+  static const String BACK_ARR = 'assets/icon/back.svg';
+  static const String PROFILE = 'assets/icon/ATS user.svg';
+  static const String SPANER = 'assets/icon/spaner.svg';
+  static const String CAMERA = 'assets/icon/camera.svg';
+  static const String UPLOAD = 'assets/icon/Upload.svg';
+  static const String LOCATION_ARR = 'assets/icon/location.svg';
+  static const String NOT_SYMBOL = 'assets/icon/not_symbol.svg';
+  static const String WRONG = 'assets/icon/wrong.svg';
+  static const String SEARCH = 'assets/icon/search-normal.svg';
+  static const String ATTACH = 'assets/icon/attach.svg';
+  static const String PERCENTAGE = 'assets/icon/%.svg';
+  static const String DOLAR = 'assets/icon/DOLAR.svg';
+  static const String PLUS = 'assets/icon/plus.svg';
+  static const String EDIT = 'assets/icon/EDIT.svg';
+  static const String EDIT_BG = 'assets/icon/EDIT_BG.svg';
+  static const String CALENDER_TIME = 'assets/icon/CALENDER&TIME.svg';
+  static const String CALENDER = 'assets/icon/calendar.svg';
+  static const String TIME = 'assets/icon/time.svg';
+  static const String TIMER = 'assets/icon/timer.svg';
+  static const String CALL = 'assets/icon/call.svg';
+  static const String CALL_RINGING = 'assets/icon/call_ringing.svg';
+  static const String MESSAGE = 'assets/icon/messages.svg';
+  static const String GALLERY_ADD = 'assets/icon/gallery-add.svg';
+  static const String DELETE = 'assets/icon/delete.svg';
+  static const String SETTINGS = 'assets/icon/setting.svg';
+  static const String NOTIFICATION = 'assets/icon/notification.svg';
+  static const String ADDRESS = 'assets/icon/address.svg';
+  static const String NOTIFI_CALL = 'assets/icon/notifi_call.svg';
+  static const String NOTIFI_CHAT = 'assets/icon/notifi_chat.svg';
+  static const String LOCATION_MARKER = 'assets/icon/location_marker.png';
+}

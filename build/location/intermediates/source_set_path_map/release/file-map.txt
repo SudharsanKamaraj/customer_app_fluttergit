@@ -1,0 +1,16 @@
+com.lyokone.location-jetified-play-services-basement-16.0.1-0 /Users/amofetch/.gradle/caches/transforms-3/09c23e7cbf21dd779a150f316a69bf16/transformed/jetified-play-services-basement-16.0.1/res
+com.lyokone.location-media-1.0.0-1 /Users/amofetch/.gradle/caches/transforms-3/1257af257850cf856547808fe720e18a/transformed/media-1.0.0/res
+com.lyokone.location-jetified-window-java-1.0.0-beta04-2 /Users/amofetch/.gradle/caches/transforms-3/1f3a48307cb4d4f3c4b4017790727bb7/transformed/jetified-window-java-1.0.0-beta04/res
+com.lyokone.location-core-1.6.0-3 /Users/amofetch/.gradle/caches/transforms-3/77b74b3e082fce6675a3e7b655edb2a9/transformed/core-1.6.0/res
+com.lyokone.location-jetified-annotation-experimental-1.1.0-4 /Users/amofetch/.gradle/caches/transforms-3/b58c281c27050016c25e893f9bb4efa0/transformed/jetified-annotation-experimental-1.1.0/res
+com.lyokone.location-jetified-play-services-base-16.0.1-5 /Users/amofetch/.gradle/caches/transforms-3/d21aff79b276f4341339db2e361a4eed/transformed/jetified-play-services-base-16.0.1/res
+com.lyokone.location-coordinatorlayout-1.0.0-6 /Users/amofetch/.gradle/caches/transforms-3/e367e2ea2d37be6c0812f9b4c45ae58d/transformed/coordinatorlayout-1.0.0/res
+com.lyokone.location-jetified-window-1.0.0-beta04-7 /Users/amofetch/.gradle/caches/transforms-3/e6f6f813fd598259b501b01e0fa4ed75/transformed/jetified-window-1.0.0-beta04/res
+com.lyokone.location-main-8 /Users/amofetch/.pub-cache/hosted/pub.dev/location-4.4.0/android/src/main/res
+com.lyokone.location-release-9 /Users/amofetch/.pub-cache/hosted/pub.dev/location-4.4.0/android/src/release/res
+com.lyokone.location-pngs-10 /Users/amofetch/Desktop/sudharsan/customar_app/build/location/generated/res/pngs/release
+com.lyokone.location-resValues-11 /Users/amofetch/Desktop/sudharsan/customar_app/build/location/generated/res/resValues/release
+com.lyokone.location-rs-12 /Users/amofetch/Desktop/sudharsan/customar_app/build/location/generated/res/rs/release
+com.lyokone.location-mergeReleaseResources-13 /Users/amofetch/Desktop/sudharsan/customar_app/build/location/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.lyokone.location-mergeReleaseResources-14 /Users/amofetch/Desktop/sudharsan/customar_app/build/location/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.lyokone.location-merged_res-15 /Users/amofetch/Desktop/sudharsan/customar_app/build/location/intermediates/merged_res/release
